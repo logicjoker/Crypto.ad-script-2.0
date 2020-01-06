@@ -7,7 +7,7 @@ DOGE : LQB6Ma8obfzSipBMkUvQAj27kiJ3pziNs4<br>
 LTC : D9SPrjGzL6CZi7uxPCe68V12YRDgyYyrWU<br>
 *****
 Installation (termux)<br>
-apt update && apt upgrade<br>
+apt update && apt upgrade -y<br>
 pkg install php<br>
 pkg install nano<br>
 pkg install git<br>
