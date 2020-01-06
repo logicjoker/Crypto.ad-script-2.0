@@ -15,4 +15,4 @@ cd storage *(use this to access your storage device) <br>
 cd download *(this dir on your sdcard) <br>
 git clone <br>
 ls <br>
-php bot.php (enter your email and pass cryto.ad) <br> 
+php bot.php (enter your email and pass crypto.ad) <br> 
