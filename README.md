@@ -18,3 +18,7 @@ cd download *(this dir on your sdcard) <br>
 git clone https://github.com/logicjoker/Crypto.ad-script-2.0.git<br>
 ls <br>
 php bot.php (enter your email and pass crypto.ad) <br> 
+
+*** choose menu 3 to visit ad on website
+
+<a href="https://ibb.co/nmH9JST"><img src="https://i.ibb.co/6w3zC52/81793554-929121967485876-1916788426112237568-n.jpg" alt="81793554-929121967485876-1916788426112237568-n" border="0"></a>
