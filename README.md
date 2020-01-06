@@ -1,4 +1,4 @@
-# Crypto.ad-script-2.0
+# Crypto.ad script 2.0
 Bot Script without http captured 
 *****
 Donation<br>
