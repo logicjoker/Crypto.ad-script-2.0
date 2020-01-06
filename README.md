@@ -6,3 +6,13 @@ BTC : 3AX4kojcL2TkTk6rbx81YWtWiT7grqkdeZ<br>
 DOGE : LQB6Ma8obfzSipBMkUvQAj27kiJ3pziNs4<br>
 LTC : D9SPrjGzL6CZi7uxPCe68V12YRDgyYyrWU<br>
 *****
+Installation (termux)<br>
+apt update && apt upgrade<br>
+pkg install php<br>
+pkg install nano<br>
+pkg install git<br>
+cd storage *(use this to access your storage device) <br>
+cd download *(this dir on your sdcard) <br>
+git clone <br>
+ls <br>
+php bot.php (enter your email and pass cryto.ad) <br> 
