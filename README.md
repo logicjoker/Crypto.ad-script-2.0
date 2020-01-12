@@ -14,7 +14,7 @@ pkg install php<br>
 pkg install nano<br>
 pkg install git<br>
 cd storage *(use this to access your storage device) <br>
-cd download *(this dir on your sdcard) <br>
+cd download *(this dir on your storage device)  <br>
 git clone https://github.com/logicjoker/Crypto.ad-script-2.0.git<br>
 cd Crypto.ad-script-2.0<br>
 ls <br>
