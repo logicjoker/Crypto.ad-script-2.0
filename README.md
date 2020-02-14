@@ -2,9 +2,7 @@
 Bot Script without http captured 
 *****
 Donation<br>
-BTC : 3AX4kojcL2TkTk6rbx81YWtWiT7grqkdeZ<br>
-DOGE : LQB6Ma8obfzSipBMkUvQAj27kiJ3pziNs4<br>
-LTC : D9SPrjGzL6CZi7uxPCe68V12YRDgyYyrWU<br>
+BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 link : https://freexrp.nl/CA-108098
 *****
